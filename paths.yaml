@@ -1,0 +1,3 @@
+test: cifar-100-python/test
+train: cifar-100-python/train
+meta: cifar-100-python/meta
